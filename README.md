@@ -55,9 +55,9 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
 
 ## 🌟 Insignias - Estadísticas GitHub
 
-<a href="http://www.github.com/BautistaBaigorri"><img src="https://github-readme-stats.vercel.app/api?username=BautistaBaigorri&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="BautistaBaigorri's GitHub stats" /></a>
+<a href="http://www.github.com/BautistaBaigorri"><img src="https://github-readme-stats.vercel.app/api?username=BautistaBaigorri&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&locale=es" alt="BautistaBaigorri's GitHub stats" /></a>
 
-<a href="https://github.com/BautistaBaigorri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaBaigorri&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/BautistaBaigorri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaBaigorri&langs_count=10&locale=es&custom_title=Top%20%Languages&layout=compact&theme=github_dark" alt="Top Languages" /></a>
 
  <hr/> 
 
