@@ -9,20 +9,6 @@ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lad
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
 
-
-## Sobre mi 🚀👨‍💻
-
-<p>
-Mí primer contacto con la programación fue en la universidad en el 2020. En donde por medio de un software educativo (Pseint), ejercite mí lógica mediante pseudo-código. Aprendiendo de forma básica los lenguajes: C++ y Python. 🤓
-
-Luego empecé estudiando de forma autodidacta en cursos, tales como FreeCodeCamp y Open Bootcamp. Culminando con 5 proyectos de páginas web, únicamente con HTML y CSS puro. ✍📑
-
-Actualmente me encuentro en la etapa final del Bootcamp intensivo que brinda Henry. Dejando mí marca cómo Teaching Assistant y adquiriendo una amplia variedad de conocimientos que me titulan cómo Full Stack Web Developer. 👨‍💻
-
-Soy una persona efectiva y proactiva, capaz de trabajar bajo presión sin perder foco en los objetivos. 🚀 
-<p/>
-
-
 ## Lenguajes y herramientas
 ![LENGUAJES](https://user-images.githubusercontent.com/103950921/189976979-ba75275e-9573-4a46-85bd-c18edd18c418.png)
 
@@ -92,6 +78,14 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
+
+## 🌟 Insignias - Estadísticas GitHub
+
+<a href="http://www.github.com/BautistaBaigorri"><img src="https://github-readme-stats.vercel.app/api?username=BautistaBaigorri&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="BautistaBaigorri's GitHub stats" /></a>
+
+<a href="https://github.com/BautistaBaigorri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaBaigorri&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ <hr/> 
 
 ## Mis repositorios 👇
 
