@@ -2,9 +2,14 @@
 
 # **Hola, Soy [Bautista Baigorri](https://www.linkedin.com/in/bautista-omar-baigorri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Full Stack Web Developer<br>
-Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
-Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
+Soy Full Stack Web Developer, tengo 20 años, soy un apasionado de la tecnología y me encuentro en constante evolución de aprendizaje en el ámbito de programación y a fines. 📈
+
+✅ Soy una persona efectiva y proactiva, capaz de trabajar bajo presión sin perder foco en los objetivos. 🚀
+
+✅ Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación. 🚀
+
+✅ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.
+
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
