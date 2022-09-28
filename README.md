@@ -59,6 +59,26 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
       Link a repo
 </a>
 
+### Cuenta Regresiva⏰ 📋
+Aplicación que me permite agregar eventos identificando su fecha y en base a ello, la aplicación me va a decir cuantos días quedan para el evento estipulado.<br> 
+Si se cierra la página no se pierde la información ya que se encuentra almacenado en el local storage.
+<br> 
+🚀 Técnologías: JAVASCRIPT | HTML | CSS (FULL RESPONSIVE)
+
+![Screenshot_1](https://user-images.githubusercontent.com/103950921/192708500-46670c66-71fd-47c2-9d10-44fdc858e342.png)
+
+### Para ver más 👇:
+
+<a href="https://cuenta-regresiva-eventos.vercel.app/" fontSize="34">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      Cuenta Regresiva (Deploy)
+</a>
+</br></br>
+<a href="https://github.com/BautistaBaigorri/Cuenta-Regresiva-Eventos">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
+
 ## 🌟 Insignias - Estadísticas GitHub
 
 <a href="http://www.github.com/BautistaBaigorri"><img src="https://github-readme-stats.vercel.app/api?username=BautistaBaigorri&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&locale=es" alt="BautistaBaigorri's GitHub stats" /></a>
