@@ -65,7 +65,7 @@ Si se cierra la página no se pierde la información ya que se encuentra almacen
 <br> 
 🚀 Técnologías: JAVASCRIPT | HTML | CSS (FULL RESPONSIVE)
 
-![Screenshot_1](https://user-images.githubusercontent.com/103950921/192708500-46670c66-71fd-47c2-9d10-44fdc858e342.png)
+![Screenshot_1](https://user-images.githubusercontent.com/103950921/193173042-22ad76f2-5c5f-4ca1-994a-6106bdf2d279.png)
 
 ### Para ver más 👇:
 
