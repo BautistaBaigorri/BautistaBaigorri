@@ -22,7 +22,7 @@ Soy Full Stack Web Developer, tengo 20 años, soy un apasionado de la tecnologí
 
 <p>
 
- ### PULL REQUEST - ECOMMERCE 💻
+ ### ● PULL REQUEST - ECOMMERCE 💻
 La app es un ecommerce de productos tecnologicos, dichos productos son perifericos y componentes de PC. Se planteó esta idea para facilitarle al cliente el alcance de todo lo que requiere para trabajar o jugar en una misma pagina. <br>
 🚀 Tecnologías: Javascript - React - Redux - Bootstrap - Material UI - NodeJS- Express - Sequelize - PostgreSQL - Auth0 - Cloudinary - Node Mailer - Paypal API - Google Maps API - SCRUM
 
@@ -40,10 +40,10 @@ La app es un ecommerce de productos tecnologicos, dichos productos son periferic
       Link a repo
 </a>
 
-### BAUTIGAMES - VIDEOGAMES APP 👾🎮
+### ● BAUTIGAMES - VIDEOGAMES APP 👾🎮
 Single-page application de videojuegos que incluía: búsquedas, filtrados, ordenamientos y creación.
-Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:
-Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
+Desarrolle íntegramente esta aplicación tanto frontend como backend. <br>
+🚀 Tecnologías: Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
 
 ![home](https://user-images.githubusercontent.com/103950921/189984993-4b1f26aa-7fc4-46be-b76d-2c8a187b9328.png)
 
@@ -59,7 +59,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
       Link a repo
 </a>
 
-### Cuenta Regresiva⏰ 📋
+### ● Cuenta Regresiva⏰ 📋
 Aplicación que me permite agregar eventos identificando su fecha y en base a ello, la aplicación me va a decir cuantos días quedan para el evento estipulado.<br> 
 Si se cierra la página no se pierde la información ya que se encuentra almacenado en el local storage.
 <br> 
@@ -75,6 +75,20 @@ Si se cierra la página no se pierde la información ya que se encuentra almacen
 </a>
 </br></br>
 <a href="https://github.com/BautistaBaigorri/Cuenta-Regresiva-Eventos">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
+
+### ● Calculator Mobile 📱
+Esta es una calculadora para móviles, diseñada con una hermosa interfaz de usuario y un estilo minimalista. Cuenta con modo oscuro. <br>
+🚀 Técnologías: Typescript | React Native Expo | CSS
+
+![iPhone 13](https://user-images.githubusercontent.com/43630417/155477881-5bd39925-55c3-4e22-9966-9ebc0976a863.png)
+![iPhone 13](https://user-images.githubusercontent.com/43630417/155478260-05e30110-3144-4e99-8690-048bc8a00c8f.png)
+
+### Para ver más 👇:
+
+<a href="https://github.com/BautistaBaigorri/Calculadora">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
       Link a repo
 </a>
