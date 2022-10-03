@@ -26,8 +26,6 @@ Soy Full Stack Web Developer, tengo 20 años, soy un apasionado de la tecnologí
 La app es un ecommerce de productos tecnologicos, dichos productos son perifericos y componentes de PC. Se planteó esta idea para facilitarle al cliente el alcance de todo lo que requiere para trabajar o jugar en una misma pagina. <br>
 🚀 Tecnologías: Javascript - React - Redux - Bootstrap - Material UI - NodeJS- Express - Sequelize - PostgreSQL - Auth0 - Cloudinary - Node Mailer - Paypal API - Google Maps API - SCRUM
 
-![landing](https://user-images.githubusercontent.com/103950921/189980762-0a2dea6c-4b91-42fc-b43d-64fd0fdf042a.png)
-
 ### Para ver más 👇:
 
 <a href="https://pf-ecommerce-iota.vercel.app/" fontSize="34">
@@ -44,8 +42,6 @@ La app es un ecommerce de productos tecnologicos, dichos productos son periferic
 Single-page application de videojuegos que incluía: búsquedas, filtrados, ordenamientos y creación.
 Desarrolle íntegramente esta aplicación tanto frontend como backend. <br>
 🚀 Tecnologías: Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL.
-
-![home](https://user-images.githubusercontent.com/103950921/189984993-4b1f26aa-7fc4-46be-b76d-2c8a187b9328.png)
 
 ### Para ver más 👇:
 
@@ -65,8 +61,6 @@ Si se cierra la página no se pierde la información ya que se encuentra almacen
 <br> 
 🚀 Técnologías: JAVASCRIPT | HTML | CSS (FULL RESPONSIVE)
 
-![Screenshot_1](https://user-images.githubusercontent.com/103950921/193173042-22ad76f2-5c5f-4ca1-994a-6106bdf2d279.png)
-
 ### Para ver más 👇:
 
 <a href="https://cuenta-regresiva-eventos.vercel.app/" fontSize="34">
@@ -82,9 +76,6 @@ Si se cierra la página no se pierde la información ya que se encuentra almacen
 ### ● Calculator Mobile 📱
 Esta es una calculadora para móviles, diseñada con una hermosa interfaz de usuario y un estilo minimalista. Cuenta con modo oscuro. <br>
 🚀 Técnologías: Typescript | React Native Expo | CSS
-
-![iPhone 13](https://user-images.githubusercontent.com/43630417/155477881-5bd39925-55c3-4e22-9966-9ebc0976a863.png)
-![iPhone 13](https://user-images.githubusercontent.com/43630417/155478260-05e30110-3144-4e99-8690-048bc8a00c8f.png)
 
 ### Para ver más 👇:
 
